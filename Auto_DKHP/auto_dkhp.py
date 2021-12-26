@@ -9,7 +9,7 @@ import getpass
 import os
 
 list_txtMaMonHoc = ["ML021", "KL001"]
-list_hidMaNhom = ["06", "06"]
+list_hidMaNhom = ["06", "05"]
 list_hidSoTinChi = ["2", "2"]
 
 dkhp_template = {
