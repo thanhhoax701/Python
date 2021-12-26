@@ -44,8 +44,8 @@ def find_Sk(S: list, k: int) -> set:
     return res
 
 def main() -> None:
-    # W = {"a", "c", "ad", "abb", "bad", "deb", "bbcde"}
-    W = {"010", "0001", "0110", "1100", "00011", "00110", "11110", "101011"}
+    W = {"a", "c", "ad", "abb", "bad", "deb", "bbcde"}
+    # W = {"010", "0001", "0110", "1100", "00011", "00110", "11110", "101011"}
     S = list()
 
     print("W: {}".format(W))
