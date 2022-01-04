@@ -8,9 +8,9 @@ import copy
 import getpass
 import os
 
-list_txtMaMonHoc = ["ML021", "KL001"]
-list_hidMaNhom = ["04", "05"]
-list_hidSoTinChi = ["2", "2"]
+list_txtMaMonHoc = ["CT228"]
+list_hidMaNhom = ["01"]
+list_hidSoTinChi = ["3"]
 
 dkhp_template = {
     "txtMaMonHoc": '',
